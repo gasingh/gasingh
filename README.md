@@ -1,4 +1,4 @@
-Uu## HELLO
+## HELLO
 
 - 👋 Hi, I’m Gaganjit Singh.
 - 👀 I’m interested in Computation, Math and 3d Shapes!
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## GEOMETRY PROJECTS
 
-- Design and Shape generation projects I have worked on!
+Design and Shape generation projects I have worked on!
 
 <p align="center">
 
