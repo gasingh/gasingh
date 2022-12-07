@@ -1,4 +1,4 @@
-## HELLO
+Uu## HELLO
 
 - 👋 Hi, I’m Gaganjit Singh.
 - 👀 I’m interested in Computation, Math and 3d Shapes!
