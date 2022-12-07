@@ -16,7 +16,16 @@ You can click the Preview link to take a look at your changes.
 
 - Design and Shape generation projects I have worked on!
 
-![](https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg)
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="700">
+<a href=https://github.com/gasingh/surfaceViz>Mathematical Surfaces</a>
+
+
+</p>
+
+
+
 
 ## CODE NOTEBOOKS
 
