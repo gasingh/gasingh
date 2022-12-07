@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="700">
 <a href=https://github.com/gasingh/surfaceViz>Mathematical Surfaces</a>
 
+<img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="700>
+<a href=https://github.com/gasingh/surfaceViz>Raindrop Sim</a>
 
 </p>
 
