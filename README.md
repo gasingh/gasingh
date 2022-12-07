@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 ### SKILLS
 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg = 15x15)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg = 15x15)
+
 
 
