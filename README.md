@@ -37,6 +37,8 @@ You can click the Preview link to take a look at your changes.
 
 - This is a collection of various interesting scripts and algorithms.
 
+[Functional Python Recipes](https://github.com/gasingh/functionalPythonRecipes)
+
 ## SKILLS
 
 ### LANGUAGES
