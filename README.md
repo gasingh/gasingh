@@ -8,10 +8,10 @@
 - 💞️ I love Functional Programming, and 3d shapes!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gaganjit-singh-9a9b0814)
 - TOC for my repository: 
-  1. [GEOMETRY PROJECTS](https://github.com/gasingh/gasingh/edit/main/README.md#geometry-projects)
-  2. [CODE NOTEBOOKS](https://github.com/gasingh/gasingh/edit/main/README.md#code-notebooks)
-  3. [SCRIPTS](https://github.com/gasingh/gasingh/edit/main/README.md#scripts)
-  4. [PROGRAMMING SKILLS](https://github.com/gasingh/gasingh/edit/main/README.md#programming-skills)
+  1. [GEOMETRY PROJECTS](https://github.com/gasingh/gasingh#i-geometry-projects)
+  2. [CODE NOTEBOOKS](https://github.com/gasingh/gasingh#ii-code-notebooks)
+  3. [SCRIPTS](https://github.com/gasingh/gasingh#iii-scripts)
+  4. [PROGRAMMING SKILLS](https://github.com/gasingh/gasingh#iv-programming-skills)
 
 
 ### i. GEOMETRY PROJECTS
