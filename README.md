@@ -1,16 +1,18 @@
 ## HELLO!
 
 - 👋 Hi, I’m Gaganjit Singh.
-- I work at [ZHA](https://www.zaha-hadid.com/) London as a Lead Designer. I code computational workflows connecting digital aesthetics to manufacturable geometries to deliver real-life infrastructure projects like bridges, skyscrapers, and pavilion structures.
+- I work at [ZHA](https://www.zaha-hadid.com/) London as a Lead Designer. I code computational workflows connecting digital aesthetics to manufacturable geometries to deliver complex large-scale urban infrastructure projects. At my job, I build 3d digital generative systems to envisage and manufacture urban artifacts such as bridges, skyscrapers, and pavilion structures.
 - 👀 I’m interested in geometry, computation, math and 3d shapes!
 - 🌱 I’m currently learning Machine Learning Algorithms in order to recognize shapes!
 - 💞️ I love Functional Programming, and 3d shapes!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gaganjit-singh-9a9b0814)
-- TOC for my repository: 
-  1. [GEOMETRY PROJECTS](https://github.com/gasingh/gasingh#i-geometry-projects)
-  2. [CODE NOTEBOOKS](https://github.com/gasingh/gasingh#ii-code-notebooks)
-  3. [SCRIPTS](https://github.com/gasingh/gasingh#iii-scripts)
-  4. [PROGRAMMING SKILLS](https://github.com/gasingh/gasingh#iv-programming-skills)
+
+- REPOSITORY INDEX: 
+  1. [GEOMETRY PROJECTS](https://github.com/gasingh#i-geometry-projects)
+  2. [NON-GEOMETRY PROJECTS](https://github.com/gasingh#ii-non-geometry-projects)
+  3. [CODE NOTEBOOKS](https://github.com/gasingh#iii-code-notebooks)
+  4. [SCRIPTS](https://github.com/gasingh#iv-scripts)
+  6. [PROGRAMMING SKILLS](https://github.com/gasingh#v-programming-skills)
 
 <details>
   <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
@@ -25,7 +27,7 @@
 </details>
 
 <details>
-  <summary><h3>ii. CODE NOTEBOOKS</h3></summary>
+  <summary><h3>iii. CODE NOTEBOOKS</h3></summary>
   
 - This is code and notes written by me for algorithms and math courses i tookup online
 - Data Structures and Algorithms using Python (NPTEL)
@@ -46,8 +48,9 @@
 
 
 <details>
-  <summary><h3>iv. PROGRAMMING SKILLS</h3></summary>
- <ul>
+<summary><h3>iv. PROGRAMMING SKILLS</h3></summary>
+<ul>
+
 <li><h4>LANGUAGES<h4></li>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="100">
 <img src= "https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png" height= 100>
@@ -64,8 +67,8 @@
 <li><h4>LIBRARIES</h4></li>
 <img src= "https://user-images.githubusercontent.com/6398561/206606288-35729eb7-bb73-446e-b9d4-7c035dfee9b6.JPG" width=160>  &nbsp; <img src= "https://user-images.githubusercontent.com/6398561/206606291-fbf4b425-8711-436a-bd75-3d17b952db31.JPG" width=150><br>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png?20200723114325" width=150><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png?20200209204934" width=150>
- </ul>
-
+ 
+</ul>
 </details>
 
 
