@@ -27,6 +27,17 @@
 </details>
 
 <details>
+  <summary><h3> ii. NON-GEOMETRY PROJECTS </h3></summary>
+  
+- These are projects i have built out of personal curiosity and learning purposes.
+
+- <a href=https://github.com/gasingh/surfaceViz>MATHEMATICAL SURFACES </a> <br>
+  <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
+  
+</details>
+
+
+<details>
   <summary><h3>iii. CODE NOTEBOOKS</h3></summary>
   
 - This is code and notes written by me for algorithms and math courses i tookup online
@@ -39,7 +50,7 @@
 
 
 <details>
-  <summary><h3>iii. SCRIPTS</h3></summary>
+  <summary><h3>iv. SCRIPTS</h3></summary>
   
 - This is a collection of various interesting scripts and algorithms.
 - Functional Python Recipes | [LINK](https://github.com/gasingh/functionalPythonRecipes)
@@ -48,7 +59,7 @@
 
 
 <details>
-<summary><h3>iv. PROGRAMMING SKILLS</h3></summary>
+<summary><h3>v. PROGRAMMING SKILLS</h3></summary>
 <ul>
 
 <li><h4>LANGUAGES<h4></li>
@@ -131,5 +142,20 @@ https://www.w3schools.com/html/html_lists.asp
   <li>Tea</li>
   <li>Milk</li>
 </ul> 
+
+--->
+  
+  
+<!--- RECIPE 5 : FULL COLLAPSIBLE SECTION DEMO
+
+<details>
+  <summary><h3> i. GEOMETRY PROJECTS </h3></summary>
+  
+- Here is a collection of some design and shape generation projects i have worked on.
+
+- <a href=  > SECTION-TITLE </a> <br>
+  <img src=" SECTION-URL " width="500">
+
+</details>
 
 --->
