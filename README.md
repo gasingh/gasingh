@@ -87,13 +87,18 @@
   
 <details> <summary><h3> vi. CERTIFICATIONS </h3></summary> <ul>
 
+<img src= "https://user-images.githubusercontent.com/6398561/206641845-9ab28dba-57d6-47d9-93a1-5326ac16f9e4.jpg" width=1000> <br>
+![notion_MyTimeline 2022_CROP](https://user-images.githubusercontent.com/6398561/206645077-036a976a-4968-466d-98ef-b65a7e1eadc8.jpg)
 
   
 <details> <summary><h4> PROGRAMMING </h4></summary>
 <ul>
 <img src= "https://images.credly.com/size/340x340/images/02385bfc-b8e3-46b0-a005-c4c354eff100/image.png" width=300>  &nbsp; 
 <img src= "https://images.credly.com/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" width=300> <br>
-<img src= "https://archive.nptel.ac.in/content/noc/NOC22/SEM1/Ecertificates/106/noc22-cs26/Course/NPTEL22CS26S22003022NPTEL2201037462.jpg" width=400>  &nbsp; 
+<img src= "https://user-images.githubusercontent.com/6398561/206637777-d0b588e9-4505-48a9-9e93-ad677f70be31.jpg" height=320>  
+<img src= "https://media-exp1.licdn.com/dms/image/C4E1FAQEfSa18f7mZeQ/feedshare-document-cover-images_1280/0/1656841602578?e=1671174000&v=beta&t=PaGyfjloThCFjSSEmaYwqVGtPWxeXtkHdUWY0yK9rUo" height=320>  
+<img src= "https://user-images.githubusercontent.com/6398561/206636326-f0fc190e-3465-4fee-8b5d-7edd6ba92269.png" height=320> <br>
+
 </ul>
 </details>
 
@@ -101,8 +106,9 @@
 <details>
 <summary><h4> MATHEMATICS </h4></summary>
 <ul>
-<img src= "https://archive.nptel.ac.in/content/noc/NOC22/SEM1/Ecertificates/111/noc22-ma04/Course/NPTEL22MA04S4200326502080981.jpg" width=400>  &nbsp; 
-<img src= "https://internalapp.nptel.ac.in/NOC/NOC22/SEM2/Ecertificates/111/noc22-ma50/Course/NPTEL22MA50S2200355909090152.jpg" width=400> <br>
+<img src= "https://user-images.githubusercontent.com/6398561/206637858-d48214e5-c976-40e4-88d0-2c2876dea2f8.jpg" height=320> 
+<img src= "https://internalapp.nptel.ac.in/NOC/NOC22/SEM2/Ecertificates/111/noc22-ma50/Course/NPTEL22MA50S2200355909090152.jpg" height=320> 
+<img src= "https://user-images.githubusercontent.com/6398561/206629032-5743daeb-dbe7-477d-b526-01a42499d09b.jpg" height=320>  <br>
 </ul>
 </details>
 
@@ -110,10 +116,18 @@
 <details>
 <summary><h4> AI/ML </h4></summary>
 <ul>
-<img src= "https://user-images.githubusercontent.com/6398561/206629032-5743daeb-dbe7-477d-b526-01a42499d09b.jpg" width=400>   &nbsp; 
-<img src= "https://internalapp.nptel.ac.in/NOC/NOC22/SEM2/Ecertificates/111/noc22-ma50/Course/NPTEL22MA50S2200355909090152.jpg" width=400> <br>
+<img src= "https://internalapp.nptel.ac.in/NOC/NOC22/SEM2/Ecertificates/106/noc22-cs74/Course/NPTEL22CS74S1200353909090152.jpg" height=350> 
+<img src= "https://user-images.githubusercontent.com/6398561/206629091-233945de-309b-4c52-853b-4a126a957d58.png" height=350> <br>  
 </ul>
 </details>
 
+<details>
+<summary><h4> VERSION CONTROL </h4></summary>
+<ul>
+<img src= "https://user-images.githubusercontent.com/6398561/206638259-c360602c-d992-43bc-9b91-81d0eac9af16.jpg" height=350>
+<img src= "https://media-exp1.licdn.com/dms/image/C4E1FAQF5xdF1JUoAbg/feedshare-document-cover-images_1280/0/1656962021712?e=1671174000&v=beta&t=lFhg4nxHLkOdZ5gOgfCNSgiOUqF2n9r_Xhtd_nU9X3c" height=350> <br> 
+</ul>
+</details>
+  
 </ul>
 </details>
