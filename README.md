@@ -12,36 +12,39 @@
   3. [SCRIPTS](https://github.com/gasingh/gasingh#iii-scripts)
   4. [PROGRAMMING SKILLS](https://github.com/gasingh/gasingh#iv-programming-skills)
 
-
-### i. GEOMETRY PROJECTS
-
+<details>
+  <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
+  
 - Here is a collection of some design and shape generation projects i have worked on.
-
-<!---
-<p align="center">
-  <img width="600" height="200" src="https://www.python.org/python-.png">
-</p>
---->
 
 - <a href=https://github.com/gasingh/surfaceViz>MATHEMATICAL SURFACES </a> <br>
   <img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="500">
 - <a href=https://github.com/gasingh/raindropViz>RAINDROP VIZ</a> <br>
   <img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="500">
 - 2D Elastic 
+</details>
 
-### ii. CODE NOTEBOOKS
+<details>
+  <summary><h3>ii. CODE NOTEBOOKS</h3></summary>
+  
 - This is code and notes written by me for algorithms and math courses i tookup online
 - Data Structures and Algorithms using Python (NPTEL)
 - Linear Algebra (NPTEL)
 - Multivariate Calculus (NPTEL)
 - Python for Data Science (NPTEL)
 - Optimization in Python (Gurobi)
+</details>
 
-### iii. SCRIPTS
+
+<details>
+  <summary><h3>iii. SCRIPTS</h3></summary>
 - This is a collection of various interesting scripts and algorithms.
 - Functional Python Recipes | [LINK](https://github.com/gasingh/functionalPythonRecipes)
+</details>
 
-### iv. PROGRAMMING SKILLS
+
+<details>
+  <summary><h3>iv. PROGRAMMING SKILLS</h3></summary>
 
 #### _LANGUAGES_
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="100">
@@ -59,6 +62,13 @@
 #### _LIBRARIES_
 <img src= "https://user-images.githubusercontent.com/6398561/206606288-35729eb7-bb73-446e-b9d4-7c035dfee9b6.JPG" width=160>  &nbsp; <img src= "https://user-images.githubusercontent.com/6398561/206606291-fbf4b425-8711-436a-bd75-3d17b952db31.JPG" width=150><br>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png?20200723114325" width=150><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png?20200209204934" width=150>
+</details>
+
+
+
+<!--- 
+-------------------------------------------------------------------------------------------------------
+--->
 
 
 <!---
@@ -66,9 +76,42 @@ gasingh/gasingh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!--- RECIPE 0
+<p align="center">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</p>
+--->
+
 <!--- RECIPE 1
 <img src= " " width=150>
 --->
 
 <!--- RECIPE 2
+https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+--->
+
+<!--- RECIPE 3
+https://www.w3schools.com/tags/tag_hn.asp
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6> 
 --->
