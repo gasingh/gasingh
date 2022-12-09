@@ -12,7 +12,8 @@
   2. [NON-GEOMETRY PROJECTS](https://github.com/gasingh#ii-non-geometry-projects)
   3. [CODE NOTEBOOKS](https://github.com/gasingh#iii-code-notebooks)
   4. [SCRIPTS](https://github.com/gasingh#iv-scripts)
-  6. [PROGRAMMING SKILLS](https://github.com/gasingh#v-programming-skills)
+  5. [PROGRAMMING SKILLS](https://github.com/gasingh#v-programming-skills)
+  6. [CERTIFICATIONS](https://github.com/gasingh#vi-certifications)
 
 <details>
   <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
@@ -83,6 +84,34 @@
 </details>
 
 
+  
+<details>
+<summary><h3> vi. CERTIFICATIONS </h3></summary>
+<ul>
+  
+<li><h4>PROGRAMMING</h4></li>
+<img src= "https://images.credly.com/size/340x340/images/02385bfc-b8e3-46b0-a005-c4c354eff100/image.png" width=300>  &nbsp; 
+<img src= "https://images.credly.com/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" width=300> <br>
+<img src= "https://archive.nptel.ac.in/content/noc/NOC22/SEM1/Ecertificates/106/noc22-cs26/Course/NPTEL22CS26S22003022NPTEL2201037462.jpg" width=400>  &nbsp; 
+
+
+<li><h4>MATHEMATICS</h4></li>
+<img src= "https://archive.nptel.ac.in/content/noc/NOC22/SEM1/Ecertificates/111/noc22-ma04/Course/NPTEL22MA04S4200326502080981.jpg" width=400>  &nbsp; 
+<img src= "https://internalapp.nptel.ac.in/NOC/NOC22/SEM2/Ecertificates/111/noc22-ma50/Course/NPTEL22MA50S2200355909090152.jpg" width=400> <br>
+
+
+<li><h4>AI</h4></li>
+<img src= "https://internalapp.nptel.ac.in/NOC/NOC22/SEM2/Ecertificates/106/noc22-cs74/Course/NPTEL22CS74S1200353909090152.jpg" width=400>   &nbsp; 
+<img src= "https://user-images.githubusercontent.com/6398561/206629032-5743daeb-dbe7-477d-b526-01a42499d09b.jpg" width=400>   &nbsp; 
+<img src= "https://user-images.githubusercontent.com/6398561/206629091-233945de-309b-4c52-853b-4a126a957d58.png" width=400> <br>  
+
+
+  
+</ul>  
+</details>
+
+  
+  
 
 <!--- 
 -------------------------------------------------------------------------------------------------------
@@ -159,3 +188,25 @@ https://www.w3schools.com/html/html_lists.asp
 </details>
 
 --->
+
+  
+<!--- RECIPE 6 : NESTED FULL COLLAPSIBLE SECTION DEMO!
+
+<details>
+<summary><h3> vi. CERTIFICATIONS </h3></summary>
+<ul>
+
+<details>
+<summary><h4> PROGRAMMING </h4></summary>
+<ul>
+- <img src= "https://images.credly.com/size/340x340/images/02385bfc-b8e3-46b0-a005-c4c354eff100/image.png" width=300>
+- <img src= "https://images.credly.com/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" width=300> <br>
+</ul>
+</details>
+
+</ul>  
+</details>
+
+--->
+  
+  
