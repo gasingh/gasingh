@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 ### _3D PLATFORMS_
 <img src= "https://cdn.sprutcam.com/wp-content/uploads/2019/09/Rhinoceros.svg" width=120> &nbsp; <img src= "https://miro.medium.com/max/720/1*aSoFS55iruyzbrLRh8Ltvg.webp" height = 100> &nbsp; <img src= "https://edu.3ds.com/sites/default/files/2016-03/3DS_CATIA-V5_icon_512.jpg" height =100> &nbsp; <img src= "https://www.bim42.com/assets/2012/06/gtcdigitalprojectsplash.jpg" height=100> &nbsp; <img src= "https://e7.pngegg.com/pngimages/77/989/png-clipart-dassault-systemes-enovia-catia-product-lifecycle-solidworks-dassault-electronics-3d-computer-graphics.png" height=100>
 
-### _IDE_
+### _IDES_
 <img src= "https://miro.medium.com/max/720/1*7psySrYSfKtSUKMkCAT1Iw.webp" width=160> <br>
 <img src= "https://user-images.githubusercontent.com/6398561/206610459-8cd1c738-ae7b-4cd3-8595-bd27d5ba6061.jpg" width=300> <br>
 <img src= "https://user-images.githubusercontent.com/6398561/206610452-e47328e6-87e8-4a19-9f52-69ab0ca7f5df.JPG" width=300> <br>
