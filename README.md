@@ -1,8 +1,7 @@
 ## HELLO!
 
 - 👋 Hi, I’m Gaganjit Singh.
-- I work at [ZHA](https://www.zaha-hadid.com/) London as a Lead Designer, where i code and develop computational workflows connecting digital aesthetics to manufacturable geometries for real full-scale projects such as bridges, skyscrapers, and pavilion structures.
-- This is a repository of my ongoing personal learnings mostly in the field of Geometry Computing.
+- I work at [ZHA](https://www.zaha-hadid.com/) London as a Lead Designer. I code computational workflows connecting digital aesthetics to manufacturable geometries to deliver real-life infrastructure projects like bridges, skyscrapers, and pavilion structures.
 - 👀 I’m interested in geometry, computation, math and 3d shapes!
 - 🌱 I’m currently learning Machine Learning Algorithms in order to recognize shapes!
 - 💞️ I love Functional Programming, and 3d shapes!
