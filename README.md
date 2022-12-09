@@ -14,18 +14,19 @@ You can click the Preview link to take a look at your changes.
 
 ## GEOMETRY PROJECTS
 
-Design and Shape generation projects I have worked on!
+Design and shape generation projects i have worked on.
 
+<!---
 <p align="center">
-
-<img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="700">
-<a href=https://github.com/gasingh/surfaceViz>Mathematical Surfaces</a>
-
-<img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="700">
-<a href=https://github.com/gasingh/raindropViz>Raindrop Viz</a>
-
+  <img width="600" height="200" src="https://www.python.org/python-.png">
 </p>
+--->
 
+<a href=https://github.com/gasingh/surfaceViz>MATHEMATICAL SURFACES </a> <br>
+<img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="500">
+
+<a href=https://github.com/gasingh/raindropViz>RAINDROP VIZ</a> <br>
+<img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="500">
 
 
 
@@ -55,6 +56,7 @@ Design and Shape generation projects I have worked on!
 <img src= "https://miro.medium.com/max/720/1*7psySrYSfKtSUKMkCAT1Iw.webp" width=160> 
 <img src= "https://developer.rhino3d.com/images/ghpython-component.png" width=160> 
 <img src= "http://james-ramsden.com/wp-content/uploads/2015/05/grasshopper-change-slider-colour.png" width=160>
+(Rhino3D IDEs: RhinoPython, GrasshopperPython, Grasshopper C#Script)
 
 ### LIBRARIES
 
