@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 <img src= "https://i.ytimg.com/vi/On42TxTGrpk/maxresdefault.jpg" height = 100 >
 
 ### _3D PLATFORMS_
-<img src= "https://cdn.sprutcam.com/wp-content/uploads/2019/09/Rhinoceros.svg" width=120> &nbsp; <img src= "https://miro.medium.com/max/720/1*aSoFS55iruyzbrLRh8Ltvg.webp" height = 100> &nbsp; <img src= "https://edu.3ds.com/sites/default/files/2016-03/3DS_CATIA-V5_icon_512.jpg" height =100> &nbsp; <img src= "https://www.bim42.com/assets/2012/06/gtcdigitalprojectsplash.jpg" height=100> &nbsp; <img src= "https://e7.pngegg.com/pngimages/77/989/png-clipart-dassault-systemes-enovia-catia-product-lifecycle-solidworks-dassault-electronics-3d-computer-graphics.png" height=100>
+<img src= "https://cdn.sprutcam.com/wp-content/uploads/2019/09/Rhinoceros.svg" width=120> &nbsp; <img src= "https://pbs.twimg.com/profile_images/3178748615/322acd18106528ad1dc98436e0899022_400x400.jpeg" height = 100> &nbsp; <img src= "https://edu.3ds.com/sites/default/files/2016-03/3DS_CATIA-V5_icon_512.jpg" height =100> &nbsp; <img src= "https://www.bim42.com/assets/2012/06/gtcdigitalprojectsplash.jpg" height=100> &nbsp; <img src= "https://e7.pngegg.com/pngimages/77/989/png-clipart-dassault-systemes-enovia-catia-product-lifecycle-solidworks-dassault-electronics-3d-computer-graphics.png" height=100>
 
 ### _IDES_
 <img src= "https://miro.medium.com/max/720/1*7psySrYSfKtSUKMkCAT1Iw.webp" width=160> <br>
