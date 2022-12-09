@@ -59,8 +59,7 @@ You can click the Preview link to take a look at your changes.
 <img src= "https://user-images.githubusercontent.com/6398561/206610452-e47328e6-87e8-4a19-9f52-69ab0ca7f5df.JPG" width=300> <br>
 
 ### _LIBRARIES_
-<img src= "https://user-images.githubusercontent.com/6398561/206606288-35729eb7-bb73-446e-b9d4-7c035dfee9b6.JPG" width=160>  &nbsp; <img src= "https://user-images.githubusercontent.com/6398561/206606291-fbf4b425-8711-436a-bd75-3d17b952db31.JPG" width=150>
-
+<img src= "https://user-images.githubusercontent.com/6398561/206606288-35729eb7-bb73-446e-b9d4-7c035dfee9b6.JPG" width=160>  &nbsp; <img src= "https://user-images.githubusercontent.com/6398561/206606291-fbf4b425-8711-436a-bd75-3d17b952db31.JPG" width=150><br>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png?20200723114325" width=150><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png?20200209204934" width=150>
 
 
