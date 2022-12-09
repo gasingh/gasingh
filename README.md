@@ -38,30 +38,34 @@
 
 <details>
   <summary><h3>iii. SCRIPTS</h3></summary>
+  
 - This is a collection of various interesting scripts and algorithms.
 - Functional Python Recipes | [LINK](https://github.com/gasingh/functionalPythonRecipes)
+
 </details>
 
 
 <details>
   <summary><h3>iv. PROGRAMMING SKILLS</h3></summary>
-
-#### _LANGUAGES_
+ <ul>
+<li><h4>LANGUAGES<h4></li>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="100">
 <img src= "https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png" height= 100>
 <img src= "https://i.ytimg.com/vi/On42TxTGrpk/maxresdefault.jpg" height = 100 >
 
-#### _3D PLATFORMS_
+<li><h4>3D PLATFORMS</h4></li>
 <img src= "https://cdn.sprutcam.com/wp-content/uploads/2019/09/Rhinoceros.svg" width=120> &nbsp; <img src= "https://pbs.twimg.com/profile_images/3178748615/322acd18106528ad1dc98436e0899022_400x400.jpeg" height = 100> &nbsp; <img src= "https://edu.3ds.com/sites/default/files/2016-03/3DS_CATIA-V5_icon_512.jpg" height =100> &nbsp; <img src= "https://www.bim42.com/assets/2012/06/gtcdigitalprojectsplash.jpg" height=100> &nbsp; <img src= "https://e7.pngegg.com/pngimages/77/989/png-clipart-dassault-systemes-enovia-catia-product-lifecycle-solidworks-dassault-electronics-3d-computer-graphics.png" height=100>
 
-#### _IDES_
+<li><h4>IDES</h4></li>
 <img src= "https://miro.medium.com/max/720/1*7psySrYSfKtSUKMkCAT1Iw.webp" width=160> <br>
 <img src= "https://user-images.githubusercontent.com/6398561/206610459-8cd1c738-ae7b-4cd3-8595-bd27d5ba6061.jpg" width=300> <br>
 <img src= "https://user-images.githubusercontent.com/6398561/206610452-e47328e6-87e8-4a19-9f52-69ab0ca7f5df.JPG" width=300> <br>
 
-#### _LIBRARIES_
+<li><h4>LIBRARIES</h4></li>
 <img src= "https://user-images.githubusercontent.com/6398561/206606288-35729eb7-bb73-446e-b9d4-7c035dfee9b6.JPG" width=160>  &nbsp; <img src= "https://user-images.githubusercontent.com/6398561/206606291-fbf4b425-8711-436a-bd75-3d17b952db31.JPG" width=150><br>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png?20200723114325" width=150><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png?20200209204934" width=150>
+ </ul>
+
 </details>
 
 
@@ -114,4 +118,15 @@ https://www.w3schools.com/tags/tag_hn.asp
 <h4>This is heading 4</h4>
 <h5>This is heading 5</h5>
 <h6>This is heading 6</h6> 
+--->
+
+
+<!--- RECIPE 4
+https://www.w3schools.com/html/html_lists.asp
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
 --->
