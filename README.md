@@ -32,7 +32,7 @@
   
 - These are projects i have built out of personal curiosity and learning purposes.
 
-- <a href=https://github.com/gasingh/surfaceViz>MATHEMATICAL SURFACES </a> <br>
+- <a href= "https://github.com/gasingh/gitcommands"> GIT COMMANDS </a> <br>
   <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
   
 </details>
