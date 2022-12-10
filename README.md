@@ -66,10 +66,10 @@
 <li><h4>LANGUAGES<h4></li>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="100">
 <img src= "https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png" height= 100>
-<img src= "https://i.ytimg.com/vi/On42TxTGrpk/maxresdefault.jpg" height = 100 >
+<img src= "https://user-images.githubusercontent.com/6398561/206825752-559921c6-ba52-4fe0-9e31-4c603c98627c.jpg" height = 100 >
 
 <li><h4>3D PLATFORMS</h4></li>
-<img src= "https://cdn.sprutcam.com/wp-content/uploads/2019/09/Rhinoceros.svg" width=120> &nbsp; <img src= "https://pbs.twimg.com/profile_images/3178748615/322acd18106528ad1dc98436e0899022_400x400.jpeg" height = 100> &nbsp; <img src= "https://edu.3ds.com/sites/default/files/2016-03/3DS_CATIA-V5_icon_512.jpg" height =100> &nbsp; <img src= "https://www.bim42.com/assets/2012/06/gtcdigitalprojectsplash.jpg" height=100> &nbsp; <img src= "https://e7.pngegg.com/pngimages/77/989/png-clipart-dassault-systemes-enovia-catia-product-lifecycle-solidworks-dassault-electronics-3d-computer-graphics.png" height=100>
+<img src= "https://cdn.sprutcam.com/wp-content/uploads/2019/09/Rhinoceros.svg" width=120> &nbsp; <img src= "https://pbs.twimg.com/profile_images/3178748615/322acd18106528ad1dc98436e0899022_400x400.jpeg" height = 100> &nbsp; <img src= "https://edu.3ds.com/sites/default/files/2016-03/3DS_CATIA-V5_icon_512.jpg" height =100> &nbsp; <img src= "https://e7.pngegg.com/pngimages/77/989/png-clipart-dassault-systemes-enovia-catia-product-lifecycle-solidworks-dassault-electronics-3d-computer-graphics.png" height=100> &nbsp; <img src= "https://www.bim42.com/assets/2012/06/gtcdigitalprojectsplash.jpg" height=100>
 
 <li><h4>IDES</h4></li>
 <img src= "https://miro.medium.com/max/720/1*7psySrYSfKtSUKMkCAT1Iw.webp" width=160> <br>
