@@ -18,46 +18,67 @@
 <details>
   <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
   
-- Here is a collection of some design and shape generation projects i have worked on.
+- *Here is a collection of some design and shape generation projects i have worked on...*
 
-- <a href=https://github.com/gasingh/surfaceViz>MATHEMATICAL SURFACES </a> <br>
+- **ICP Surface Registration** <br>
+  (Python,2022)
+
+  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v6). We patch the implemtation to Numpy/ PurePython in the background and compute on the fly updates.
+  
+- **Differential Growth Surfaces** <br>
+  (Python,2022)
+
+  This is the Python implementation of the workshop from Institute of Computational Design, Stuttgart.
+
+- **Color Tools for Rhino3D** <br>
+  (Python,2022) 
+
+  This is a set of tools written to support colour-blind modellers to navigate the Rhino3d software colour assignments.
+  Exposes standard colour assignment commands for the command-line, and a 'named colour finder', which facilitates partial string queries from the standard set of 150 named colours offered by the .NET library.
+  
+  The tool-set is written for my own daily usage, and I keep expanding on it as and when necessary.
+  
+  For the future, I intend to extend this to a full-fledged tool which can query a named colour database with a search gui.
+
+- <a href=https://github.com/gasingh/surfaceViz>**Mathematical Surfaces** </a> <br> (Python,2021)<br>
+  This is an implementation of Numpy Inspired functions to map surface equations inside Rhino3d. 
   <img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="500">
-- <a href=https://github.com/gasingh/raindropViz>RAINDROP VIZ</a> <br>
+
+- <a href=https://github.com/gasingh/raindropViz>**Raindrop Viz**</a> <br>(Python,2021) <br>
   <img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="500">
 
-- 2D 
+- **Surface Offsetter with boundary controls** <br>
+  (Python,2019)
 
-- SPIROGRAPHS
+- **2D Convex Hull** <br>
+  (Python/grasshopper,2017)
 
-img {
-  max-width: 50%;
-}
-<img src="https://payload.cargocollective.com/1/0/29276/722044/Img_zoobie2A%20-%20Copy_905_905.png" style="background-color:red;padding:20px;">
+- **Picturize: a drone imagery 3d visualize**<br>
+  (Python,2014) "MAS ETHZ THESIS PROJECT" <br>
 
+  [Vimeo Video](https://vimeo.com/100301328)
 
-- GEODESIC POLYHEDRA
+- **Spirographs** <br>
+  (Vbscript,2009)
+  <img src="https://payload.cargocollective.com/1/0/29276/348179/Kopie%20von%20Img_we7_905.jpg" width="300">
 
-<img src= " " width=150>
+- **Geodesic Polyhedra** <br>
+  (Vbscript,2008) "B.ARCH CEPT THESIS PROJECT"
+  <img src="https://payload.cargocollective.com/1/0/29276/722044/IMG_4350_cropper_2-resized_o.jpg" width="300">
 
-- PICTURIZE
-
-
-Visualize drone and mobile phone imagery inside Rhino 3d!
-
-![VIMEO VIDEO](https://vimeo.com/100301328)
+- **Deployable Structure Viz** <br>
+  (Vbscript,2011)
 
 </details>
 
 
-
-
-<details>
-  <summary><h3> ii. NON-GEOMETRY PROJECTS </h3></summary>
+<details> 
+  <summary><h3>ii. NON GEOMETRIC</h3></summary>
   
-- These are projects i have built out of personal curiosity and learning purposes.
-
+- These are projects i have built out of personal curiosity and learning purposes. <br>
 - <a href= "https://github.com/gasingh/gitcommands"> GIT COMMANDS </a> <br>
   <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
+
 </details>
 
 
