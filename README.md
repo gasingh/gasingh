@@ -30,6 +30,9 @@
 
   This is the Python implementation of the workshop from Institute of Computational Design, Stuttgart.
 
+- **Mesh Planarization** <br>
+  (Python,2022)
+
 - **Color Tools for Rhino3D** <br>
   (Python,2022) 
 
