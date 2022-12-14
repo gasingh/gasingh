@@ -40,8 +40,11 @@
   
   For the future, I intend to extend this to a full-fledged tool which can query a named colour database with a search gui.
 
-- <a href=https://github.com/gasingh/surfaceViz>**Mathematical Surfaces** </a> <br> (Python,2021)<br>
+- <a href=https://github.com/gasingh/surfaceViz>**Mathematical Surfaces** </a> <br> 
+  (Python,2021)<br>
+
   This is an implementation of Numpy Inspired functions to map surface equations inside Rhino3d. 
+
   <img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="500">
 
 - <a href=https://github.com/gasingh/raindropViz>**Raindrop Viz**</a> <br>(Python,2021) <br>
@@ -53,21 +56,37 @@
 - **2D Convex Hull** <br>
   (Python/grasshopper,2017)
 
-- **Picturize: a drone imagery 3d visualize**<br>
-  (Python,2014) "MAS ETHZ THESIS PROJECT" <br>
+- **Picturize: a drone imagery 3d visualizer**<br>
+  (Python,2014) <br>
 
-  [Vimeo Video](https://vimeo.com/100301328)
+  _*[MAS ETH ZURICH THESIS PROJECT]*_ 
+  
+   I pursued an MAS degree at the Landscape Visualization and Modeling Laboratory at ETH Zürich. The program explores the interdisciplinary role of digital tools and techniques such as drone surveying and mapping within design scenarios. I developed a tool called "Picturize" to cluster and visualize large photographic dumps from drone surveys which can be visualize inside Rhino 3d. The tool uses the open source EXIF module to read and report metadata, and visualize it onto Digital Terrain Meshes inside the Rhino3d space.
 
-- **Spirographs** <br>
-  (Vbscript,2009)
-  <img src="https://payload.cargocollective.com/1/0/29276/348179/Kopie%20von%20Img_we7_905.jpg" width="300">
-
-- **Geodesic Polyhedra** <br>
-  (Vbscript,2008) "B.ARCH CEPT THESIS PROJECT"
-  <img src="https://payload.cargocollective.com/1/0/29276/722044/IMG_4350_cropper_2-resized_o.jpg" width="300">
+   The tool is exposed as a toolbar in Rhino3d which combines two other smaller tools useful for landscape designers, a simple flood level simulator, and a DTM mesh texture mapper for quick visualizations to assist a design task.
+   
+   [Vimeo Video](https://vimeo.com/100301328)
 
 - **Deployable Structure Viz** <br>
   (Vbscript,2011)
+   
+  <img src="https://payload.cargocollective.com/1/0/29276/654800/Kopie%20von%20Kopie%20von%2014%20-%20Copy__o.jpg" width="300">
+  <img src="https://payload.cargocollective.com/1/0/29276/654800/web_top_012_oldfileLights%20-%20Copy-%20Copy_o.jpg" width="300">
+
+- **Spirographs** <br>
+  (Vbscript,2009)
+
+  <img src="https://payload.cargocollective.com/1/0/29276/348179/Kopie%20von%20Img_we7_905.jpg" width="300">
+
+- **Geodesic Polyhedra** <br>
+  (Vbscript,2008) <br>
+
+  _*[B.ARCH CEPT RESEARCH THESIS PROJECT]*_
+  
+   In 2008-2009, I wrote a research thesis on Digital Generative Systems, and concluded this study with a plugin generating Platonic Polyhedra and their geodecizeded variants with various traingulation strategies.
+   This was in conjunction with the Critical Research in Digital Architecture Laboratory at the University of Melbourne in Australia.
+
+  <img src="https://payload.cargocollective.com/1/0/29276/722044/IMG_4350_cropper_2-resized_o.jpg" width="300">
 
 </details>
 
