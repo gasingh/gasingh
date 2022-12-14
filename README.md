@@ -91,7 +91,7 @@
 
   <img src="https://payload.cargocollective.com/1/0/29276/722044/IMG_4350_cropper_2-resized_o.jpg" width="300">
 
-  **[↑ TOP](https://github.com/gasingh#i-geometry-projects)**
+  **[↑ TOP](https://github.com/gasingh#hello)**
 </details>
 
 
@@ -102,6 +102,7 @@
 - <a href= "https://github.com/gasingh/gitcommands"> GIT COMMANDS </a> <br>
   <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
 
+**[↑ TOP](https://github.com/gasingh#hello)**
 </details>
 
 
@@ -114,6 +115,9 @@
 - Multivariate Calculus (NPTEL)
 - Python for Data Science (NPTEL)
 - Optimization in Python (Gurobi)
+- Numpy Workshop at SciPy 2020 (YouTube)
+
+**[↑ TOP](https://github.com/gasingh#hello)**
 </details>
 
 
@@ -123,6 +127,7 @@
 - This is a collection of various interesting scripts and algorithms.
 - Functional Python Recipes | [LINK](https://github.com/gasingh/functionalPythonRecipes)
 
+**[↑ TOP](https://github.com/gasingh#hello)**
 </details>
 
 ---
@@ -149,6 +154,8 @@
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png?20200723114325" width=150><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png?20200209204934" width=150>
  
 </ul>
+
+**[↑ TOP](https://github.com/gasingh#hello)**
 </details>
 
   
@@ -198,4 +205,8 @@
 </details>
   
 </ul>
+
+**[↑ TOP](https://github.com/gasingh#hello)**
 </details>
+
+
