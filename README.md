@@ -91,6 +91,7 @@
 
   <img src="https://payload.cargocollective.com/1/0/29276/722044/IMG_4350_cropper_2-resized_o.jpg" width="300">
 
+  **[↑ TOP](https://github.com/gasingh#i-geometry-projects)**
 </details>
 
 
@@ -124,6 +125,7 @@
 
 </details>
 
+---
 
 <details>
 <summary><h3>v. PROGRAMMING SKILLS</h3></summary>
