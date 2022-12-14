@@ -24,8 +24,32 @@
   <img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="500">
 - <a href=https://github.com/gasingh/raindropViz>RAINDROP VIZ</a> <br>
   <img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="500">
-- 2D Elastic 
+
+- 2D 
+
+- SPIROGRAPHS
+
+img {
+  max-width: 50%;
+}
+<img src="https://payload.cargocollective.com/1/0/29276/722044/Img_zoobie2A%20-%20Copy_905_905.png" style="background-color:red;padding:20px;">
+
+
+- GEODESIC POLYHEDRA
+
+<img src= " " width=150>
+
+- PICTURIZE
+
+
+Visualize drone and mobile phone imagery inside Rhino 3d!
+
+![VIMEO VIDEO](https://vimeo.com/100301328)
+
 </details>
+
+
+
 
 <details>
   <summary><h3> ii. NON-GEOMETRY PROJECTS </h3></summary>
@@ -34,7 +58,6 @@
 
 - <a href= "https://github.com/gasingh/gitcommands"> GIT COMMANDS </a> <br>
   <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
-  
 </details>
 
 
