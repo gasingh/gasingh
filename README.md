@@ -100,6 +100,7 @@
   
 - These are projects i have built out of personal curiosity and learning purposes. <br>
 - A simple database application in C#
+  <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
 
 **[↑ TOP](https://github.com/gasingh#hello)**
 </details>
@@ -108,20 +109,18 @@
 <details>
   <summary><h3>iii. CODE NOTEBOOKS</h3></summary>
   
-- This is code and notes written by me for algorithms and math courses i tookup online
-  **Programming** <br>
-- [Data Structures and Algorithms using Python (NPTEL)](https://github.com/gasingh/pythonDSA_nptel)
-- []
-  **Mathematics** <br>
-- Linear Algebra (NPTEL)
-- Multivariate Calculus (NPTEL)
-  **ML/ Applied Math** <br>
-- Python for Data Science (NPTEL)
-- Optimization in Python (Gurobi)
-- Numpy Workshop at SciPy 2020 (YouTube)
-  **Version Control** <br>
-- <a href= "https://github.com/gasingh/gitcommands"> GIT COMMANDS </a> <br>
-  <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
+- This is code and notes written by me for algorithms and math courses i tookup online <br>
+- **Programming** <br>
+  [Data Structures and Algorithms using Python (NPTEL)](https://github.com/gasingh/pythonDSA_nptel) <br>
+- **Mathematics** <br>
+  Linear Algebra (NPTEL)  
+  Multivariate Calculus (NPTEL)  
+- **ML/ Applied Math** <br>
+  Python for Data Science (NPTEL)  
+  Optimization in Python (Gurobi)  
+  Numpy Workshop at SciPy 2020 (YouTube)  
+- **Version Control**  
+  [Git Learning Notes (Various)](https://github.com/gasingh/gitcommands)
   
 **[↑ TOP](https://github.com/gasingh#hello)**
 </details>
