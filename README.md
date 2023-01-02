@@ -117,7 +117,7 @@ _This is code and notes written by me for algorithms and math courses i tookup o
   Linear Algebra (NPTEL)  
   Multivariate Calculus (NPTEL)  
 - **ML/ Applied Math** <br>
-  Python for Data Science (NPTEL)  
+  [Python for Data Science (NPTEL)](https://github.com/gasingh/pythonDataScience_nptel)  
   Optimization in Python (Gurobi)  
   Numpy Workshop at SciPy 2020 (YouTube)  
 - **Version Control**  
