@@ -18,7 +18,7 @@
 <details>
   <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
   
-- *Here is a collection of some design and shape generation projects i have worked on...*
+*Here is a collection of some design and shape generation projects i have worked on...*
 
 - **ICP Surface Registration** <br>
   (Python,2022)
@@ -39,7 +39,7 @@
   This is a set of tools written to support colour-blind modellers to navigate the Rhino3d software colour assignments.
   Exposes standard colour assignment commands for the command-line, and a 'named colour finder', which facilitates partial string queries from the standard set of 150 named colours offered by the .NET library.
   
-  The tool-set is written for my own daily usage, and I keep expanding on it as and when necessary.
+  The tool-set is WIP for daily use, and I keep expanding on it as and when necessary.
   
   For the future, I intend to extend this to a full-fledged tool which can query a named colour database with a search gui.
 
@@ -98,8 +98,9 @@
 <details> 
   <summary><h3>ii. NON GEOMETRIC</h3></summary>
   
-- These are projects i have built out of personal curiosity and learning purposes. <br>
+_Some non-geometrical projects i have built out of personal curiosity for learning purposes._ <br>
 - A simple database application in C#
+  
   <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
 
 **[↑ TOP](https://github.com/gasingh#hello)**
@@ -109,7 +110,7 @@
 <details>
   <summary><h3>iii. CODE NOTEBOOKS</h3></summary>
   
-- This is code and notes written by me for algorithms and math courses i tookup online <br>
+_This is code and notes written by me for algorithms and math courses i tookup online_ <br>
 - **Programming** <br>
   [Data Structures and Algorithms using Python (NPTEL)](https://github.com/gasingh/pythonDSA_nptel) <br>
 - **Mathematics** <br>
@@ -129,7 +130,8 @@
 <details>
   <summary><h3>iv. SCRIPTS</h3></summary>
   
-- This is a collection of various interesting scripts and algorithms.
+_This is a collection of various interesting scripts and algorithms._
+
 - Functional Python Recipes | [LINK](https://github.com/gasingh/functionalPythonRecipes)
 
 **[↑ TOP](https://github.com/gasingh#hello)**
