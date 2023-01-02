@@ -178,7 +178,7 @@ _This is a collection of various interesting scripts and algorithms._
 <img src= "https://images.credly.com/size/340x340/images/02385bfc-b8e3-46b0-a005-c4c354eff100/image.png" width=300>  &nbsp; 
 <img src= "https://images.credly.com/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" width=300> <br>
 <img src= "https://user-images.githubusercontent.com/6398561/206637777-d0b588e9-4505-48a9-9e93-ad677f70be31.jpg" height=320>  
-<img src= "https://media-exp1.licdn.com/dms/image/C4E1FAQEfSa18f7mZeQ/feedshare-document-cover-images_1280/0/1656841602578?e=1671174000&v=beta&t=PaGyfjloThCFjSSEmaYwqVGtPWxeXtkHdUWY0yK9rUo" height=320>  
+<img src= "https://user-images.githubusercontent.com/6398561/210229032-ffe959d6-2d86-4263-968c-df973d7aa86d.jpg" height=320>  
 <img src= "https://user-images.githubusercontent.com/6398561/206636326-f0fc190e-3465-4fee-8b5d-7edd6ba92269.png" height=320> <br>
 
 </ul>
@@ -207,7 +207,7 @@ _This is a collection of various interesting scripts and algorithms._
 <summary><h4> VERSION CONTROL </h4></summary>
 <ul>
 <img src= "https://user-images.githubusercontent.com/6398561/206638259-c360602c-d992-43bc-9b91-81d0eac9af16.jpg" height=350>
-<img src= "https://media-exp1.licdn.com/dms/image/C4E1FAQF5xdF1JUoAbg/feedshare-document-cover-images_1280/0/1656962021712?e=1671174000&v=beta&t=lFhg4nxHLkOdZ5gOgfCNSgiOUqF2n9r_Xhtd_nU9X3c" height=350> <br> 
+<img src= "https://user-images.githubusercontent.com/6398561/210228936-ba93b9dd-04b4-4d42-ae2d-21d278c4bd30.jpg" height=350> <br> 
 </ul>
 </details>
   
