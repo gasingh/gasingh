@@ -64,12 +64,11 @@
 
   _*[MAS ETH ZURICH THESIS PROJECT]*_ 
   
-  <img src="https://user-images.githubusercontent.com/6398561/211146944-04d03b60-38d9-4b91-bf8c-57081c5dff91.jpg" width="700">
-  
    I pursued an MAS degree at the Landscape Visualization and Modeling Laboratory at ETH Zürich. The program explores the interdisciplinary role of digital tools and techniques such as drone surveying and mapping within design scenarios. I developed a tool called "Picturize" to cluster and visualize large photographic dumps from drone surveys which can be visualize inside Rhino 3d. The tool uses the open source EXIF module to read and report metadata, and visualize it onto Digital Terrain Meshes inside the Rhino3d space.
 
    The tool is exposed as a toolbar in Rhino3d which combines two other smaller tools useful for landscape designers, a simple flood level simulator, and a DTM mesh texture mapper for quick visualizations to assist a design task.
-   
+  
+   <img src="https://user-images.githubusercontent.com/6398561/211146944-04d03b60-38d9-4b91-bf8c-57081c5dff91.jpg" width="700">
 
 - **Deployable Structure Viz** <br>
   (Vbscript,2011)
