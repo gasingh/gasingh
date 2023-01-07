@@ -61,7 +61,7 @@
     <img src="https://raw.githubusercontent.com/gasingh/convexHull-2D/main/160920_randomPts2polyLine_v0.gif" width="500">
   
 - <a href=https://github.com/gasingh/Picturize>**Picturize: a drone imagery 3d visualizer** </a> <br> 
-  (Python,2014) *{MAS ETH ZURICH, THESIS PROJECT}* <br>
+  (Python,2014) *MAS ETH ZURICH, THESIS PROJECT* <br>
 
   Final project for a MAS degree at the Landscape Visualization and Modeling Laboratory at ETH Zürich. The program explores the interdisciplinary role of digital tools and techniques such as drone surveying and mapping within design scenarios.
   
@@ -79,7 +79,7 @@
   <img src="https://user-images.githubusercontent.com/6398561/211143298-b5b43f26-2f4e-4cfd-8692-8c23c92c15b6.jpg" width="500">
 
 - <a href=https://github.com/gasingh/Geodesic-Polyhedra>**Geodesic Polyhedra** </a> <br> 
-  (Vbscript,2008) *{B.ARCH CEPT, RESEARCH THESIS}* <br>
+  (Vbscript,2008) *B.ARCH CEPT, RESEARCH THESIS* <br>
   
    In 2008-2009, I wrote a research thesis on Digital Generative Systems, and concluded this study with a plugin generating Platonic Polyhedra and their geodecizeded variants with various traingulation strategies.
    This was in conjunction with the Critical Research in Digital Architecture Laboratory at the University of Melbourne in Australia.
