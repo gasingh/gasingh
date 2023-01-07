@@ -56,9 +56,11 @@
 - **Surface Offsetter with boundary controls** <br>
   (Python,2019)
 
-- **2D Convex Hull** <br>
-  (Python/grasshopper,2017)
-
+- <a href=https://github.com/gasingh/convexHull-2D>**2D Convex Hull**</a> <br>(Python,2021) <br>
+  (Python/grasshopper,2016)
+  
+    <img src="https://raw.githubusercontent.com/gasingh/convexHull-2D/main/160920_randomPts2polyLine_v0.gif" width="500">
+  
 - <a href=https://github.com/gasingh/Picturize>**Picturize: a drone imagery 3d visualizer** </a> <br> 
   (Python,2014) <br>
 
@@ -68,7 +70,7 @@
 
    The tool is exposed as a toolbar in Rhino3d which combines two other smaller tools useful for landscape designers, a simple flood level simulator, and a DTM mesh texture mapper for quick visualizations to assist a design task.
   
-   <img src="https://user-images.githubusercontent.com/6398561/211146944-04d03b60-38d9-4b91-bf8c-57081c5dff91.jpg" width="700">
+   <img src="https://user-images.githubusercontent.com/6398561/211147311-a22cf348-7f65-4a9f-a15d-da97e30ec903.jpg" width="500">
 
 - **Deployable Structure Viz** <br>
   (Vbscript,2011)
