@@ -61,13 +61,9 @@
     <img src="https://raw.githubusercontent.com/gasingh/convexHull-2D/main/160920_randomPts2polyLine_v0.gif" width="500">
   
 - <a href=https://github.com/gasingh/Picturize>**Picturize: a drone imagery 3d visualizer** </a> <br> 
-  (Python,2014) <br>
+  (Python,2014) *{MAS ETH ZURICH, THESIS PROJECT}* <br>
 
-  _*[MAS ETH ZURICH THESIS PROJECT]*_ 
-  
-   I pursued an MAS degree at the Landscape Visualization and Modeling Laboratory at ETH Zürich. The program explores the interdisciplinary role of digital tools and techniques such as drone surveying and mapping within design scenarios. I developed a tool called "Picturize" to cluster and visualize large photographic dumps from drone surveys which can be visualize inside Rhino 3d. The tool uses the open source EXIF module to read and report metadata, and visualize it onto Digital Terrain Meshes inside the Rhino3d space.
-
-   The tool is exposed as a toolbar in Rhino3d which combines two other smaller tools useful for landscape designers, a simple flood level simulator, and a DTM mesh texture mapper for quick visualizations to assist a design task.
+  Final project for a MAS degree at the Landscape Visualization and Modeling Laboratory at ETH Zürich. The program explores the interdisciplinary role of digital tools and techniques such as drone surveying and mapping within design scenarios.
   
    <img src="https://user-images.githubusercontent.com/6398561/211147311-a22cf348-7f65-4a9f-a15d-da97e30ec903.jpg" width="500">
 
@@ -83,9 +79,7 @@
   <img src="https://user-images.githubusercontent.com/6398561/211143298-b5b43f26-2f4e-4cfd-8692-8c23c92c15b6.jpg" width="500">
 
 - <a href=https://github.com/gasingh/Geodesic-Polyhedra>**Geodesic Polyhedra** </a> <br> 
-  (Vbscript,2008) <br>
-
-  _*[B.ARCH CEPT RESEARCH THESIS PROJECT]*_
+  (Vbscript,2008) *{B.ARCH CEPT, RESEARCH THESIS}* <br>
   
    In 2008-2009, I wrote a research thesis on Digital Generative Systems, and concluded this study with a plugin generating Platonic Polyhedra and their geodecizeded variants with various traingulation strategies.
    This was in conjunction with the Critical Research in Digital Architecture Laboratory at the University of Melbourne in Australia.
