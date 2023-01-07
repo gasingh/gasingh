@@ -73,8 +73,8 @@
 - **Deployable Structure Viz** <br>
   (Vbscript,2011)
    
-  <img src="https://payload.cargocollective.com/1/0/29276/654800/Kopie%20von%20Kopie%20von%2014%20-%20Copy__o.jpg" width="300">
-  <img src="https://payload.cargocollective.com/1/0/29276/654800/web_top_012_oldfileLights%20-%20Copy-%20Copy_o.jpg" width="300">
+  <img src="https://payload.cargocollective.com/1/0/29276/654800/Kopie%20von%20Kopie%20von%2014%20-%20Copy__o.jpg" width="500">
+  <!--<img src="https://payload.cargocollective.com/1/0/29276/654800/web_top_012_oldfileLights%20-%20Copy-%20Copy_o.jpg" width="300">-->
 
 - **Spirographs** <br>
   (Vbscript,2009)
