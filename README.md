@@ -113,6 +113,7 @@ _Some non-geometrical projects i have built out of personal curiosity for learni
 _This is code and notes written by me for algorithms and math courses i tookup online_ <br>
 - **Programming** <br>
   [Data Structures and Algorithms using Python (NPTEL)](https://github.com/gasingh/pythonDSA_nptel) <br>
+  [Python Object-Oriented Programming (LinkedInLearning)](https://github.com/gasingh/pythonOOPcourse-1) <br>
 - **Mathematics** <br>
   Linear Algebra (NPTEL)  
   Multivariate Calculus (NPTEL)  
