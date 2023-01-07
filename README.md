@@ -81,7 +81,8 @@
 
   <img src="https://payload.cargocollective.com/1/0/29276/348179/Kopie%20von%20Img_we7_905.jpg" width="300">
 
-- **Geodesic Polyhedra** <br>
+
+- <a href=https://github.com/gasingh/Geodesic-Polyhedra>**Geodesic Polyhedra** </a> <br> 
   (Vbscript,2008) <br>
 
   _*[B.ARCH CEPT RESEARCH THESIS PROJECT]*_
@@ -89,7 +90,7 @@
    In 2008-2009, I wrote a research thesis on Digital Generative Systems, and concluded this study with a plugin generating Platonic Polyhedra and their geodecizeded variants with various traingulation strategies.
    This was in conjunction with the Critical Research in Digital Architecture Laboratory at the University of Melbourne in Australia.
 
-  <img src="https://payload.cargocollective.com/1/0/29276/722044/IMG_4350_cropper_2-resized_o.jpg" width="300">
+  <img src="https://user-images.githubusercontent.com/6398561/211141552-6f939e8d-0961-456f-931a-e5b7a781f7cf.jpg" width="300">
 
   **[↑ TOP](https://github.com/gasingh#hello)**
 </details>
