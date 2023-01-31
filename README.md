@@ -217,6 +217,6 @@ _This is a collection of various interesting scripts and algorithms._
 
 ---
   
-- This Github repository can currently be viewed as lists: [PROJECTS](https://github.com/stars/gasingh/lists/projects), [LEARNING](https://github.com/stars/gasingh/lists/learning), or by topics: [rhino3d](https://github.com/gasingh?tab=repositories&q=rhino3d&type=&language=&sort=), [plugin](https://github.com/gasingh?tab=repositories&q=plugin&type=&language=&sort=)
+- This Github repository can also be viewed categorically by lists: [Projects](https://github.com/stars/gasingh/lists/projects), [Learning](https://github.com/stars/gasingh/lists/learning), or by topic tags: [rhino3d](https://github.com/gasingh?tab=repositories&q=rhino3d&type=&language=&sort=), [plugin](https://github.com/gasingh?tab=repositories&q=plugin&type=&language=&sort=)
 
   
