@@ -7,6 +7,8 @@
 - 💞️ I love Functional Programming, and 3d shapes!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gaganjit-singh-9a9b0814)
 
+- My github commits can currently be viewed as: [PROJECTS](https://github.com/stars/gasingh/lists/projects) / [LEARNING](https://github.com/stars/gasingh/lists/learning).
+
 - REPOSITORY INDEX: 
   1. [GEOMETRY PROJECTS](https://github.com/gasingh#i-geometry-projects)
   2. [NON-GEOMETRY PROJECTS](https://github.com/gasingh#ii-non-geometry-projects)
@@ -14,6 +16,7 @@
   4. [SCRIPTS](https://github.com/gasingh#iv-scripts)
   5. [PROGRAMMING SKILLS](https://github.com/gasingh#v-programming-skills)
   6. [CERTIFICATIONS](https://github.com/gasingh#vi-certifications)
+
 
 <details>
   <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
