@@ -7,8 +7,6 @@
 - 💞️ I love Functional Programming, and 3d shapes!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gaganjit-singh-9a9b0814)
 
-- My github commits can currently be viewed as: [PROJECTS](https://github.com/stars/gasingh/lists/projects) / [LEARNING](https://github.com/stars/gasingh/lists/learning).
-
 - REPOSITORY INDEX: 
   1. [GEOMETRY PROJECTS](https://github.com/gasingh#i-geometry-projects)
   2. [NON-GEOMETRY PROJECTS](https://github.com/gasingh#ii-non-geometry-projects)
@@ -217,4 +215,8 @@ _This is a collection of various interesting scripts and algorithms._
 **[↑ TOP](https://github.com/gasingh#hello)**
 </details>
 
+---
+  
+- This Github repository can currently be viewed as lists: [PROJECTS](https://github.com/stars/gasingh/lists/projects) | [LEARNING](https://github.com/stars/gasingh/lists/learning), or by topics: [rhino3d](https://github.com/gasingh?tab=repositories&q=rhino3d&type=&language=&sort=) | [plugin](https://github.com/gasingh?tab=repositories&q=plugin&type=&language=&sort=)
 
+  
