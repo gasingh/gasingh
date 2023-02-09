@@ -71,7 +71,7 @@
   
    <img src="https://user-images.githubusercontent.com/6398561/211147311-a22cf348-7f65-4a9f-a15d-da97e30ec903.jpg" width="500">
 
-- **Deployable Structure Viz** <br>
+- <a href=https://github.com/gasingh/deployable-structure-viz>**Deployable Structure Viz**</a> <br>
   (Vbscript,2011)
    
   <img src="https://payload.cargocollective.com/1/0/29276/654800/Kopie%20von%20Kopie%20von%2014%20-%20Copy__o.jpg" width="500">
