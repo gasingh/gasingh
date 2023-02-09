@@ -54,7 +54,7 @@
 - <a href=https://github.com/gasingh/raindropViz>**Raindrop Viz**</a> <br>(Python,2021) <br>
   <img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="500">
 
-- **Surface Offsetter with boundary controls** <br>
+- <a href=https://github.com/gasingh/surface-Offsetter>**Surface Offsetter with boundary controls** </a> <br>
   (Python,2019)
 
 - <a href=https://github.com/gasingh/convexHull-2D>**2D Convex Hull**</a> <br>(Python,2016) <br>
