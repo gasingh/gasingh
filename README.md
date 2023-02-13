@@ -60,13 +60,8 @@
   <img src="https://user-images.githubusercontent.com/6398561/217711319-6804244b-1f5b-4dd8-abaa-06005691e596.JPG" width="500">
   
 - <a href=https://github.com/gasingh/convexHull-2D>**2D Convex Hull**</a> <br>(Python,2016) <br>
-  
-    <img src="https://raw.githubusercontent.com/gasingh/convexHull-2D/main/160920_randomPts2polyLine_v0.gif" width="500">
-<img src="
-" width="500">
 
-
-
+  <img src="https://raw.githubusercontent.com/gasingh/convexHull-2D/main/Screenshot_20230213_030124.jpg" width="500">
   
 - <a href=https://github.com/gasingh/Picturize>**Picturize: a drone imagery 3d visualizer** </a> <br> 
   (Python,2014) <br>
