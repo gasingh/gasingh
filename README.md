@@ -25,7 +25,7 @@
 - <a href=https://github.com/gasingh/ICP-3D>**ICP Point Cloud Registration**</a> <br>
   (Python,2023)
 
-  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v6). We patch the implemtation to Numpy/ PurePython in the background and compute on the fly updates.
+  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v6). 
 
 <!--
 
