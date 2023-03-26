@@ -19,9 +19,10 @@
 <details>
   <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
   
-*Here is a collection of some design and shape generation projects i have worked on...*
+*Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
-- **ICP Point Cloud Registration** <br>
+
+- <a href=https://github.com/gasingh/ICP-3D>**ICP Point Cloud Registration**</a> <br>
   (Python,2022)
 
   Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v6). We patch the implemtation to Numpy/ PurePython in the background and compute on the fly updates.
@@ -62,6 +63,7 @@ Currently WIP.
 
 - <a href=https://github.com/gasingh/surface-Offsetter>**Surface Offsetter** </a> <br>
   (Python,2019)
+
 
   <img src="https://user-images.githubusercontent.com/6398561/217711319-6804244b-1f5b-4dd8-abaa-06005691e596.JPG" width="500">
   
