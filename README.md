@@ -21,11 +21,13 @@
   
 *Here is a collection of some design and shape generation projects i have worked on...*
 
-- **ICP Surface Registration** <br>
+- **ICP Point Cloud Registration** <br>
   (Python,2022)
 
   Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v6). We patch the implemtation to Numpy/ PurePython in the background and compute on the fly updates.
-  
+
+<!--
+
 - **Differential Growth Surfaces** <br>
   (Python,2022)
 
@@ -33,6 +35,10 @@
 
 - **Mesh Planarization** <br>
   (Python,2022)
+
+Currently WIP.
+
+-->
 
 - **Color Tools for Rhino3D** <br>
   (Python,2022) 
