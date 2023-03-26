@@ -105,9 +105,14 @@ Currently WIP.
   <summary><h3>ii. NON GEOMETRIC</h3></summary>
   
 _Some non-geometrical projects i have built out of personal curiosity for learning purposes._ <br>
+
+- WIP
+
+<!--
 - A simple database application in C#
   
   <img src="https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg" width="500">
+-->
 
 **[↑ TOP](https://github.com/gasingh#hello)**
 </details>
