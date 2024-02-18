@@ -223,11 +223,11 @@ _This is a collection of various interesting scripts and algorithms._
 <summary><h4> AI/ML </h4></summary>
 <ul>
   2023 <br>
-<img src= "https://github.com/gasingh/gasingh/assets/6398561/be5e96ab-19ef-47b3-9e53-d973fd16797d" height=350> 
-<img src= "https://user-images.githubusercontent.com/6398561/206629091-233945de-309b-4c52-853b-4a126a957d58.png" height=350> <br>  
+<img src= "https://github.com/gasingh/gasingh/assets/6398561/be5e96ab-19ef-47b3-9e53-d973fd16797d" width=500> 
+<img src= "https://user-images.githubusercontent.com/6398561/206629091-233945de-309b-4c52-853b-4a126a957d58.png" width=500> <br>  
   2024 <br>
-<img src= "https://github.com/gasingh/gasingh/assets/6398561/ee0b42c9-8970-4264-ae08-effc9f5ebf01" height=350> 
-<img src= "https://github.com/gasingh/gasingh/assets/6398561/334acea8-2f77-4959-ab0d-0a73a2a2a5f8" height=350> 
+<img src= "https://github.com/gasingh/gasingh/assets/6398561/ee0b42c9-8970-4264-ae08-effc9f5ebf01" width=500> 
+<img src= "https://github.com/gasingh/gasingh/assets/6398561/334acea8-2f77-4959-ab0d-0a73a2a2a5f8" width=500> 
 
 </ul>
 </details>
