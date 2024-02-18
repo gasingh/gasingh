@@ -222,10 +222,11 @@ _This is a collection of various interesting scripts and algorithms._
 <details>
 <summary><h4> AI/ML </h4></summary>
 <ul>
-<img src= "https://internalapp.nptel.ac.in/NOC/NOC22/SEM2/Ecertificates/106/noc22-cs74/Course/NPTEL22CS74S1200353909090152.jpg" height=350> 
+<img src= "https://github.com/gasingh/gasingh/assets/6398561/be5e96ab-19ef-47b3-9e53-d973fd16797d" height=350> 
 <img src= "https://user-images.githubusercontent.com/6398561/206629091-233945de-309b-4c52-853b-4a126a957d58.png" height=350> <br>  
 </ul>
 </details>
+
 
 <details>
 <summary><h4> VERSION CONTROL </h4></summary>
