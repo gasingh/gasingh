@@ -51,12 +51,12 @@ Currently WIP.
   
   For the future, I intend to extend this to a full-fledged tool which can query a named colour database with a search gui.
 
-- <a href=https://github.com/gasingh/minBoundingBox>**Min Bounding Box** </a> <br>
-(Python,2024)<br>
+- <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
+(Python & Linear Algebra,2024) #ML <br>
 
   A minimum bounding box solver for point clouds using the principal component analysis (PCA) technique. Works with both 2D and 3D point clouds! This is an exercise in mathematical curiosity!
 
-  <img src="https://github.com/gasingh/minBoundingBox/blob/main/eigenValues%26EigenVectors_03c_2x2implementation_ptInput2g__img2_solved_fileShot-02_trim.JPG" width="600">
+  <img src="https://github.com/gasingh/minBoundingBox/blob/main/eigenValues%26EigenVectors_03c_2x2implementation_ptInput2g__img2_solved_fileShot-02_trim.JPG" width="400">
 
 
 - <a href=https://github.com/gasingh/infoThreads>**Infothreads** </a> <br>
