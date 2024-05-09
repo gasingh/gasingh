@@ -54,7 +54,7 @@ Currently WIP.
 - <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
 (Python & Linear Algebra,2024) #ML <br>
 
-  A minimum bounding box solver for point clouds using the principal component analysis (PCA) technique. Works with both 2D and 3D point clouds! This is an exercise in mathematical curiosity!
+  A minimum bounding box solver for point clouds using the principal component analysis (PCA) technique. Works with both 2D and 3D point clouds, amd meshes! This is an exercise in mathematical curiosity!
 
   <img src="https://github.com/gasingh/minBoundingBox/blob/main/eigenValues%26EigenVectors_03c_2x2implementation_ptInput2g__img2_solved_fileShot-02_trim.JPG" width="400">
 
