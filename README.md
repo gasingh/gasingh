@@ -26,17 +26,22 @@
 
   Development of shape recognition and clustering functionalities inside the Rhino 3d environment (Rhino v7). 
 
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/ViewCapture20240531_005832.jpg" width="400">
+
 - <a href=https://github.com/gasingh/ICP-3D>**ICP Point Cloud Registration (3D)**</a> <br>
   (Python, Mathematical Algorithms,2024)
 
   Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7). 
 
+ <img src="https://raw.githubusercontent.com/gasingh/ICP-3D/main/ViewCapture20240531_043415%20-%20Copy.jpg" width="700">
+
 - <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
 (Python, Linear Algebra,2024) #ML <br>
 
-  A minimum bounding box solver for Rhino3D. I coded all the math from scratch including computation of eigenvalues and eigenvectors for 2x2 and 3x3 matrices. The 3X3 eigenvalues are computed using the Faddeev–LeVerrier algorithm, and the Cardano's equation. The 3X3 eigenvectors are computed using Gaussian Elimination. Works with both 2D and 3D point clouds, and meshes.
+  A minimum bounding box solver for Rhino3D. I coded all the math from scratch including computation of eigenvalues and eigenvectors for 2x2 and 3x3 matrices. Works with both 2D and 3D point clouds, and meshes.
 
   <img src="https://github.com/gasingh/minBoundingBox/blob/main/eigenValues%26EigenVectors_03c_2x2implementation_ptInput2g__img2_solved_fileShot-02_trim.JPG" width="400">
+  <img src="https://raw.githubusercontent.com/gasingh/minBoundingBox/main/240508_3dboundingBox_ViewCapture20240508_031153.jpg" width="400">
 
 <!--
 
@@ -57,9 +62,9 @@ Currently WIP.
   (Python,2023) 
 
   This is a set of tools written to support colour-blind modellers to navigate the Rhino3d software colour assignments.
-  Exposes standard colour assignment commands for the command-line, and a 'named colour finder', which facilitates partial string queries from the standard set of 150 named colours offered by the .NET library.
+  Exposes standard colour assignment commands for the command-line, and a 'named colour finder', which facilitates partial string queries from the standard set of 150 named colours offered by the .NET library. Additionally an extended version of the tool, exposes 700 named colors which can be queried and assigned by name.
   
-  The tool-set is WIP for daily use, and I keep expanding on it as and when necessary.
+  The color tool-set is WIP for my daily use, and I keep expanding on it as and when necessary.
   
   For the future, I intend to extend this to a full-fledged tool which can query a named colour database with a search gui.
 
