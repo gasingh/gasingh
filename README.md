@@ -34,6 +34,7 @@
   Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7). 
 
  <img src="https://raw.githubusercontent.com/gasingh/ICP-3D/main/ViewCapture20240531_043415%20-%20Copy.jpg" width="700">
+ <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun5_optimal2_frame46.png" width="700">
 
 - <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
 (Python, Linear Algebra,2024) #ML <br>
