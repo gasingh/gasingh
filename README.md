@@ -21,17 +21,17 @@
   
 *Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
-- <a href=https://github.com/gasingh/shapeRecognition>**Shape Recognition and Clustering (3D)**</a> <br>
+- <a href=https://github.com/gasingh/shapeRecognition>**Shape Recognition and Clustering (3D)** </a> <br>
   (Python, Mathematical Algorithms,2024)
 
   Development of shape recognition and clustering functionalities inside the Rhino 3d environment (Rhino v7). 
 
 <img src="https://github.com/gasingh/shapeRecognition/blob/main/ViewCapture20240531_005832.jpg" width="400">
 
-- <a href=https://github.com/gasingh/ICP-3D>**ICP Point Cloud Registration (3D)**</a> <br>
+- <a href=https://github.com/gasingh/ICP-3D>**Shape Registration (3D)** </a> <br>
   (Python, Mathematical Algorithms,2024)
 
-  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7). 
+  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7), to achieve automated 3d mesh alignments.
 
  <img src="https://raw.githubusercontent.com/gasingh/ICP-3D/main/ViewCapture20240531_043415%20-%20Copy.jpg" width="700"> <br>
  <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun5_optimal2_frame46.png" width="700"><br>
