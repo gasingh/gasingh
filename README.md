@@ -38,7 +38,7 @@
  <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun2_optimal_frame30.png" width="700"><br>
   
 - <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
-(Python, Linear Algebra,2024) #ML <br>
+(Python, Mathematical Algorithms,2024) <br>
 
   A minimum bounding box solver for Rhino3D. I coded all the math from scratch including computation of eigenvalues and eigenvectors for 2x2 and 3x3 matrices. Works with both 2D and 3D point clouds, and meshes.
 
