@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Gaganjit Singh.
 - I work at [ZHA](https://www.zaha-hadid.com/) London as a Computational Design Specialist. I code computational workflows connecting digital aesthetics to manufacturable geometries to deliver complex large-scale urban infrastructure projects. At my job, I build 3d digital generative systems to envisage and manufacture urban artifacts such as bridges, skyscrapers, and pavilion structures.
 - 👀 I’m interested in geometry, computation, math and 3d shapes!
-- 🌱 I’m currently learning Machine Learning Algorithms in order to recognize shapes!
-- 💞️ I love Functional Programming, and 3d shapes!
+- 🌱 I’m curious about Machine Learning Algorithms and shape recognition!
+- 💞️ I love Functional Programming!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gaganjit-singh-9a9b0814)
 
 - REPOSITORY INDEX: 
@@ -21,11 +21,22 @@
   
 *Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
+- <a href=https://github.com/gasingh/shapeRecognition>**Shape Recognition and Clustering (3D)**</a> <br>
+  (Python, Mathematical Algorithms,2024)
 
-- <a href=https://github.com/gasingh/ICP-3D>**ICP Point Cloud Registration**</a> <br>
-  (Python,2023)
+  Development of shape recognition and clustering functionalities inside the Rhino 3d environment (Rhino v7). 
 
-  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v6). 
+- <a href=https://github.com/gasingh/ICP-3D>**ICP Point Cloud Registration (3D)**</a> <br>
+  (Python, Mathematical Algorithms,2024)
+
+  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7). 
+
+- <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
+(Python, Linear Algebra,2024) #ML <br>
+
+  A minimum bounding box solver for Rhino3D. I coded all the math from scratch including computation of eigenvalues and eigenvectors for 2x2 and 3x3 matrices. The 3X3 eigenvalues are computed using the Faddeev–LeVerrier algorithm, and the Cardano's equation. The 3X3 eigenvectors are computed using Gaussian Elimination. Works with both 2D and 3D point clouds, and meshes.
+
+  <img src="https://github.com/gasingh/minBoundingBox/blob/main/eigenValues%26EigenVectors_03c_2x2implementation_ptInput2g__img2_solved_fileShot-02_trim.JPG" width="400">
 
 <!--
 
@@ -41,8 +52,9 @@ Currently WIP.
 
 -->
 
+
 - **Color Tools for Rhino3D** <br>
-  (Python,2022) 
+  (Python,2023) 
 
   This is a set of tools written to support colour-blind modellers to navigate the Rhino3d software colour assignments.
   Exposes standard colour assignment commands for the command-line, and a 'named colour finder', which facilitates partial string queries from the standard set of 150 named colours offered by the .NET library.
@@ -50,14 +62,6 @@ Currently WIP.
   The tool-set is WIP for daily use, and I keep expanding on it as and when necessary.
   
   For the future, I intend to extend this to a full-fledged tool which can query a named colour database with a search gui.
-
-- <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
-(Python & Linear Algebra,2024) #ML <br>
-
-  A minimum bounding box solver using principal component analysis (PCA) technique. I coded all the math from scratch including computation of eigenvalues and eigenvectors for 2x2 and 3x3 matrices. The 3X3 eigenvalues are computed using the Faddeev–LeVerrier algorithm, and the Cardano's equation. The 3X3 eigenvectors are computed using Gaussian Elimination. Works with both 2D and 3D point clouds, amd meshes! This is an exercise in mathematical curiosity!
-
-  <img src="https://github.com/gasingh/minBoundingBox/blob/main/eigenValues%26EigenVectors_03c_2x2implementation_ptInput2g__img2_solved_fileShot-02_trim.JPG" width="400">
-
 
 - <a href=https://github.com/gasingh/infoThreads>**Infothreads** </a> <br>
 (Python,2023)<br>
