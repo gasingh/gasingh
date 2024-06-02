@@ -32,7 +32,7 @@
 - <a href=https://github.com/gasingh/ICP-3D>**Shape Registration (3D)** </a> <br>
   (Python, Mathematical Algorithms, 2024)
 
-  Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7), to achieve automated 3d mesh alignments.
+  Implementation of the vanilla Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7), to achieve automated 3d mesh alignments. Please note, all the background math is coded natively from scratch to support the project without any external library dependencies, etc.
 
  <img src="https://raw.githubusercontent.com/gasingh/ICP-3D/main/ViewCapture20240531_043415%20-%20Copy.jpg" width="700"> <br>
  <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun5_optimal2_frame46.png" width="700"><br>
