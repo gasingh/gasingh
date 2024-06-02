@@ -22,14 +22,15 @@
 *Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
 - <a href=https://github.com/gasingh/shapeRecognition>**Shape Recognition and Clustering (3D)** </a> <br>
-  (Python, Mathematical Algorithms,2024)
+  (Python, Mathematical Algorithms, 2024)
 
-  Development of shape recognition and clustering functionalities inside the Rhino 3d environment (Rhino v7). 
+  Tools to enable 3d shape recognition and clustering inside the Rhino 3d environment (Rhino v7). 
 
-<img src="https://github.com/gasingh/shapeRecognition/blob/main/ViewCapture20240531_005832.jpg" width="400">
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="400">
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="400">
 
 - <a href=https://github.com/gasingh/ICP-3D>**Shape Registration (3D)** </a> <br>
-  (Python, Mathematical Algorithms,2024)
+  (Python, Mathematical Algorithms, 2024)
 
   Implementation of the standard Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7), to achieve automated 3d mesh alignments.
 
@@ -38,7 +39,7 @@
  <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun2_optimal_frame30.png" width="700"><br>
   
 - <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
-(Python, Mathematical Algorithms,2024) <br>
+(Python, Mathematical Algorithms, 2024) <br>
 
   A minimum bounding box solver for Rhino3D. I coded all the math from scratch including computation of eigenvalues and eigenvectors for 2x2 and 3x3 matrices. Works with both 2D and 3D point clouds, and meshes.
 
@@ -48,12 +49,12 @@
 <!--
 
 - **Differential Growth Surfaces** <br>
-  (Python,2022)
+  (Python, 2022)
 
   This is the Python implementation of the workshop from Institute of Computational Design, Stuttgart.
 
 - **Mesh Planarization** <br>
-  (Python,2022)
+  (Python, 2022)
 
 Currently WIP.
 
@@ -61,7 +62,7 @@ Currently WIP.
 
 
 - **Color Tools for Rhino3D** <br>
-  (Python,2023) 
+  (Python, 2023) 
 
   This is a set of tools written to support colour-blind modellers to navigate the Rhino3d software colour assignments.
   Exposes standard colour assignment commands for the command-line, and a 'named colour finder', which facilitates partial string queries from the standard set of 150 named colours offered by the .NET library. Additionally an extended version of the tool, exposes 700 named colors which can be queried and assigned by name.
@@ -71,7 +72,7 @@ Currently WIP.
   For the future, I intend to extend this to a full-fledged tool which can query a named colour database with a search gui.
 
 - <a href=https://github.com/gasingh/infoThreads>**Infothreads** </a> <br>
-(Python,2023)<br>
+(Python, 2023)<br>
 
   This is a threads visualizer. Can be used to visualise two data sources, on a substrate. Currently these are pretridishes and spheres!
 
@@ -79,7 +80,7 @@ Currently WIP.
 
 
 - <a href=https://github.com/gasingh/surfaceViz>**Mathematical Surfaces** </a> <br> 
-  (Python,2021)<br>
+  (Python, 2021)<br>
 
   This is an implementation of Numpy Inspired functions to map surface equations inside Rhino3d. 
 
@@ -89,7 +90,7 @@ Currently WIP.
   <img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="500">
 
 - <a href=https://github.com/gasingh/surface-Offsetter>**Surface Offsetter** </a> <br>
-  (Python,2019)
+  (Python, 2019)
 
 
   <img src="https://user-images.githubusercontent.com/6398561/217711319-6804244b-1f5b-4dd8-abaa-06005691e596.JPG" width="500">
@@ -99,7 +100,7 @@ Currently WIP.
   <img src="https://raw.githubusercontent.com/gasingh/convexHull-2D/main/Screenshot_20230213_030124.jpg" width="500">
   
 - <a href=https://github.com/gasingh/Picturize>**Picturize: a drone imagery 3d visualizer** </a> <br> 
-  (Python,2014) <br>
+  (Python, 2014) <br>
   *MAS ETH ZURICH, THESIS PROJECT* <br>
 
   Final project for a MAS degree at the Landscape Visualization and Modeling Laboratory at ETH Zürich. The program explores the interdisciplinary role of digital tools and techniques such as drone surveying and mapping within design scenarios.
@@ -107,18 +108,18 @@ Currently WIP.
    <img src="https://user-images.githubusercontent.com/6398561/211147311-a22cf348-7f65-4a9f-a15d-da97e30ec903.jpg" width="500">
 
 - <a href=https://github.com/gasingh/deployable-structure-viz>**Deployable Structure Viz**</a> <br>
-  (Vbscript,2011)
+  (Vbscript, 2011)
    
   <img src="https://payload.cargocollective.com/1/0/29276/654800/Kopie%20von%20Kopie%20von%2014%20-%20Copy__o.jpg" width="500">
   <!--<img src="https://payload.cargocollective.com/1/0/29276/654800/web_top_012_oldfileLights%20-%20Copy-%20Copy_o.jpg" width="300">-->
 
 - <a href=https://github.com/gasingh/spirographs>**Spirographs** </a> <br>
-  (Vbscript,2009)
+  (Vbscript, 2009)
 
   <img src="https://user-images.githubusercontent.com/6398561/211143298-b5b43f26-2f4e-4cfd-8692-8c23c92c15b6.jpg" width="500">
 
 - <a href=https://github.com/gasingh/Geodesic-Polyhedra>**Geodesic Polyhedra** </a> <br> 
-  (Vbscript,2008) <br> 
+  (Vbscript, 2008) <br> 
   *B.ARCH CEPT, RESEARCH THESIS* <br>
   
    In 2008-2009, I wrote a research thesis on Digital Generative Systems, and concluded this study with a plugin generating Platonic Polyhedra and their geodecizeded variants with various traingulation strategies.
