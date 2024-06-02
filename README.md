@@ -85,7 +85,8 @@ Currently WIP.
 
   This is an implementation of Numpy Inspired functions to map surface equations inside Rhino3d. 
 
-  <img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="500">
+  <img src="https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg" width="400"> <img src="https://github.com/gasingh/gasingh/assets/6398561/af2736aa-9fbc-4606-a07c-5f8f871d4cfd" width="400"> <br>
+
 
 - <a href=https://github.com/gasingh/raindropViz>**Raindrop Viz**</a> <br>(Python,2021) <br>
   <img src="https://user-images.githubusercontent.com/6398561/178242913-05ff3c27-13cf-4988-af42-a4fddca4dcf3.JPG" width="500">
