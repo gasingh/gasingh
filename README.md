@@ -28,8 +28,7 @@ ___
 
   Tools to enable 3d shape recognition and clustering inside the Rhino 3d environment (Rhino v7). 
 
-<img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="400">
-<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="400">
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="400"> <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="400"> <br>
 
 - <a href=https://github.com/gasingh/ICP-3D>**Shape Registration (3D)** </a> <br>
   (Python, Mathematical Algorithms, 2024)
