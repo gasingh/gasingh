@@ -15,9 +15,11 @@
   5. [PROGRAMMING SKILLS](https://github.com/gasingh#v-programming-skills)
   6. [CERTIFICATIONS](https://github.com/gasingh#vi-certifications)
 
+___
 
-<details>
-  <summary><h3>i. GEOMETRY PROJECTS</h3></summary>
+<!-- <details> <summary> -->
+  <h3>i. GEOMETRY PROJECTS</h3>
+  <!-- </summary> -->
   
 *Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
@@ -128,7 +130,7 @@ Currently WIP.
   <img src="https://user-images.githubusercontent.com/6398561/211141552-6f939e8d-0961-456f-931a-e5b7a781f7cf.jpg" width="500">
 
   **[↑ TOP](https://github.com/gasingh#hello)**
-</details>
+<!-- </details> -->
 
 
 <details> 
