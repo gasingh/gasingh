@@ -23,7 +23,7 @@ ___
   
 *Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
-- <a href=https://github.com/gasingh/shapeRecognition>**Shape Recognition (3D)** </a> <br>
+- <a href=https://github.com/gasingh/shapeRecognition>**Shape Classification (3D)** </a> <br>
   (Python, Mathematical Algorithms, 2024)
 
   Tools to enable 3d shape recognition and clustering inside the Rhino 3d environment (Rhino v7). 
