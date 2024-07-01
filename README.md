@@ -23,20 +23,20 @@ ___
   
 *Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
-- <a href=https://github.com/gasingh/shapeRecognition>**Shape Recognition and Clustering (3D)** </a> <br>
+- <a href=https://github.com/gasingh/shapeRecognition>**Shape Recognition (3D)** </a> <br>
   (Python, Mathematical Algorithms, 2024)
 
   Tools to enable 3d shape recognition and clustering inside the Rhino 3d environment (Rhino v7). 
 
 <img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="400"> <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="400"> <br>
 
-- <a href=https://github.com/gasingh/ICP-3D>**Shape Registration (3D)** </a> <br>
+- <a https://github.com/gasingh/shapeAlignment>**Shape Alignment (3D)** </a> <br>
   (Python, Mathematical Algorithms, 2024)
 
-  Implementation of the vanilla Iterative Closest Point algorithm inside the Rhino 3d environment (Rhino v7), to achieve automated 3d mesh alignments. Please note, all the background math is coded natively from scratch to support the project without any external library dependencies, etc.
+  A mesh to mesh alignment tool for Rhino 3d environment (Rhino v7), to achieve automated 3d mesh alignments. Please note, all the background math is coded natively from scratch to support the project without any external library dependencies, etc.
 
- <img src="https://raw.githubusercontent.com/gasingh/ICP-3D/main/ViewCapture20240531_043415%20-%20Copy.jpg" width="700"> <br>
- <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun5_optimal2_frame46.png" width="700"><br>
+ <img src="https://raw.githubusercontent.com/gasingh/shapeAlignment/main/ViewCapture20240531_043415%20-%20Copy.jpg" width="700"> <br>
+ <img src="https://github.com/gasingh/shapeAlignment/blob/main/240601_icp_view7_octopusDualRun5_optimal2_frame46.png" width="700"><br>
  <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun2_optimal_frame30.png" width="700"><br>
   
 - <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
