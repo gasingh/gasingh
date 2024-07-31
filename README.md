@@ -1,3 +1,14 @@
+<html>
+<head>
+  <!-- 23:06 31/07/2024 -->
+  <!-- Google site verification -->
+  <meta name="google-site-verification" content="ddeDOxzwxlFV1eZpQZr4z-JeFbGakKolyVPILoXadqQ" />
+</head>
+<body>
+  <!-- Your content -->
+</body>
+</html>
+
 ## HELLO!
 
 - 👋 Hi, I’m Gaganjit Singh.
@@ -252,15 +263,3 @@ _This is a collection of various interesting scripts and algorithms._
 - This Github repository can also be viewed categorically by lists: [Projects](https://github.com/stars/gasingh/lists/projects), [Learning](https://github.com/stars/gasingh/lists/learning), or by topic tags: [rhino3d](https://github.com/gasingh?tab=repositories&q=rhino3d&type=&language=&sort=), [plugin](https://github.com/gasingh?tab=repositories&q=plugin&type=&language=&sort=)
 
 
-
-
-<html>
-<head>
-  <!-- 23:06 31/07/2024 -->
-  <!-- Google site verification -->
-  <meta name="google-site-verification" content="ddeDOxzwxlFV1eZpQZr4z-JeFbGakKolyVPILoXadqQ" />
-</head>
-<body>
-  <!-- Your content -->
-</body>
-</html>
