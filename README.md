@@ -1,13 +1,6 @@
-<html>
-<head>
-  <!-- 23:06 31/07/2024 -->
-  <!-- Google site verification -->
-  <meta name="google-site-verification" content="ddeDOxzwxlFV1eZpQZr4z-JeFbGakKolyVPILoXadqQ" />
-</head>
-<body>
-  <!-- Your content -->
-</body>
-</html>
+<!-- 23:06 31/07/2024 -->
+<!-- Google site verification -->
+<meta name="google-site-verification" content="ddeDOxzwxlFV1eZpQZr4z-JeFbGakKolyVPILoXadqQ" />
 
 ## HELLO!
 
