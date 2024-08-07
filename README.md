@@ -11,6 +11,8 @@
 - 💞️ I love Functional Programming!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gaganjit-singh-9a9b0814)
 
+- NOTE: The projects published here are my personal research projects and not the work i do professionally.
+
 - REPOSITORY INDEX: 
   1. [GEOMETRY PROJECTS](https://github.com/gasingh#i-geometry-projects)
   2. [NON-GEOMETRY PROJECTS](https://github.com/gasingh#ii-non-geometry-projects)
