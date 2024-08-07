@@ -5,7 +5,7 @@
 ## HELLO!
 
 - 👋 Hi, I’m Gaganjit Singh.
-- I work at [ZHA](https://www.zaha-hadid.com/) London as a Computational Design Specialist. I code computational workflows connecting digital aesthetics to manufacturable geometries to deliver complex large-scale urban infrastructure projects. At my job, I build 3d digital generative systems to envisage and manufacture urban artifacts such as bridges, skyscrapers, and pavilion structures.
+- I'm a Computational Design Specialist, working in high-end design and manufacturing inductry. I code computational workflows connecting digital aesthetics to manufacturable geometries to deliver complex large-scale urban infrastructure projects. At my job, I build 3d digital generative systems to envisage and manufacture urban artifacts such as bridges, skyscrapers, and pavilion structures.
 - 👀 I’m interested in geometry, computation, math and 3d shapes!
 - 🌱 I’m curious about Machine Learning Algorithms and shape recognition!
 - 💞️ I love Functional Programming!
