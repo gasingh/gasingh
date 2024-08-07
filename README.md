@@ -10,7 +10,7 @@
 - 🌱 I’m curious about Machine Learning, and 3D Geometry!
 - 💞️ I love Functional Programming!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gaganjit-singh-9a9b0814)
-
+<br>
 - REPOSITORY INDEX: 
   1. [GEOMETRY PROJECTS](https://github.com/gasingh#i-geometry-projects)
   2. [NON-GEOMETRY PROJECTS](https://github.com/gasingh#ii-non-geometry-projects)
