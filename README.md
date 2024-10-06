@@ -100,7 +100,7 @@ Currently WIP.
 - <a href=https://github.com/gasingh/boatHull/tree/main> **BoatHull Viz** </a> <br>
 (Python 2024)
 
-  A very simple visualiztion of a Wigley Boat Hull Shape in Rhino3D.
+  A simple python implementation of a Wigley Boat Hull Shape inside Rhino3d.
   
   <img src="https://raw.githubusercontent.com/gasingh/boatHull/refs/heads/main/wigley_img_C.JPG" width="400">
 
