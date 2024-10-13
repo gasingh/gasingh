@@ -153,7 +153,15 @@ Currently WIP.
   <summary><h3>ii. NON GEOMETRIC</h3></summary>
   
 _Some non-geometrical projects i have built out of personal curiosity for learning purposes._ <br>
+- <a href=https://github.com/gasingh/LA_CodingTheMatrix>**Linear Algebra: Coding the Matrix Course** </a> <br>
 
+  <img src="https://camo.githubusercontent.com/2bc6bde1751802f1a3b452edf0449756e0b254f254a4c16cd3f5c427972fa902/68747470733a2f2f692e67722d6173736574732e636f6d2f696d616765732f532f636f6d707265737365642e70686f746f2e676f6f6472656164732e636f6d2f626f6f6b732f313339363833363730306c2f31383436393835332e6a7067" width="300">
+
+
+- <a href=https://github.com/gasingh/furniture-style-classifier>**Furniture Classifier Project: Building AI** </a> <br> 
+
+  <img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" width="500">
+  
 - WIP
 
 <!--
