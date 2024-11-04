@@ -33,44 +33,57 @@ ___
   
 *Here is a collection of some design and shape generation projects i have worked on. All tools developed and algorithms coded are for the Rhino 3D environment*
 
+### GEOMETRY ANALYTICS 
+
 - <a href=https://github.com/gasingh/shapeRecognition>**Shape Classification (3D)** </a> <br>
   (Python, Mathematical Algorithms, 2024)
 
   Tools to enable 3d shape recognition and clustering inside the Rhino 3d environment (Rhino v7). 
 
+<!--
 <img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="400"> <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="400"> <br>
+-->
 
 - <a href=https://github.com/gasingh/shapeAlignment> **Shape Alignment (3D)** </a> <br>
   (Python, Mathematical Algorithms, 2024)
 
   A mesh to mesh alignment tool for Rhino 3d environment (Rhino v7), to achieve automated 3d mesh alignments. Please note, all the background math is coded natively from scratch to support the project without any external library dependencies, etc.
 
+<!--
  <img src="https://raw.githubusercontent.com/gasingh/shapeAlignment/main/ViewCapture20240531_043415%20-%20Copy.jpg" width="700"> <br>
  <img src="https://github.com/gasingh/shapeAlignment/blob/main/240601_icp_view7_octopusDualRun5_optimal2_frame46.png" width="700"><br>
  <img src="https://github.com/gasingh/ICP-3D/blob/main/240601_icp_view7_octopusDualRun2_optimal_frame30.png" width="700"><br>
+-->
   
 - <a href=https://github.com/gasingh/minBoundingBox>**Minimum Bounding Box (2D,3D)** </a> <br>
 (Python, Mathematical Algorithms, 2024) <br>
 
   A minimum bounding box solver for Rhino3D. I coded all the math from scratch including computation of eigenvalues and eigenvectors for 2x2 and 3x3 matrices. Works with both 2D and 3D point clouds, and meshes.
 
+<!--
   <img src="https://github.com/gasingh/minBoundingBox/blob/main/eigenValues%26EigenVectors_03c_2x2implementation_ptInput2g__img2_solved_fileShot-02_trim.JPG" width="400">
   <img src="https://github.com/gasingh/minBoundingBox/blob/main/240508_3dboundingBox_ViewCapture20240508_031153.jpg" width="400">
+-->
 
 <!--
+![](https://startsafety.uk/cdn/shop/files/start-traffic-hazard-attention-warning-symbol-main.jpg?v=1722382386&width=250)
+-->
 
-- **Differential Growth Surfaces** <br>
+### GEOMETRY GENERATION
+
+- **Differential Growth** <br>
   (Python, 2022)
 
-  This is the Python implementation of the workshop from Institute of Computational Design, Stuttgart.
+  Differential Growth Curves and Meshes explored here.
 
 - **Mesh Planarization** <br>
   (Python, 2022)
 
-Currently WIP.
+  A simple mesh planarity solver.
 
+<!--
+more stuff to come!
 -->
-
 
 - **Color Tools for Rhino3D** <br>
   (Python, 2023) 
@@ -116,7 +129,10 @@ Currently WIP.
 - <a href=https://github.com/gasingh/convexHull-2D>**2D Convex Hull**</a> <br>(Python,2016) <br>
 
   <img src="https://raw.githubusercontent.com/gasingh/convexHull-2D/main/Screenshot_20230213_030124.jpg" width="500">
-  
+
+
+### GEOMETRY PROJECTS FROM 2000s
+
 - <a href=https://github.com/gasingh/Picturize>**Picturize: a drone imagery 3d visualizer** </a> <br> 
   (Python, 2014) <br>
   *MAS ETH ZURICH, THESIS PROJECT* <br>
