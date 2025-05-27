@@ -113,7 +113,7 @@ more stuff to come!
 
   This is a threads visualizer. Can be used to visualise two data sources, on a substrate. Currently these are pretridishes and spheres!
 
-  <img src="https://raw.githubusercontent.com/gasingh/infoThreads/main/sphereToRandomPts_createRandomWeb_v1_silent_webRandomScalingVersion_2Circles_3_img22.JPG" width="600">
+  <img src="https://raw.githubusercontent.com/gasingh/infoThreads/main/sphereToRandomPts_createRandomWeb_v1_silent_webRandomScalingVersion_2Circles_3_img22.JPG" width="800">
 
 
 - <a href=https://github.com/gasingh/surfaceViz>**Mathematical Surfaces** </a> <br> 
