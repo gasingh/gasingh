@@ -86,6 +86,17 @@ ___
 <!--
 more stuff to come!
 -->
+<br>
+
+
+- <a href=https://github.com/gasingh/k-means/>**kMeans++ for Rhino3D** </a> <br>
+(Python, 2025)<br>
+
+  This is a 3d clustering solution uing the kMeans++ algorithm. Can be used to cluster meshes and point clouds. Currently the algorithm works by inputting a k count and an iteration limit!
+
+  <img src="https://github.com/gasingh/k-means/blob/main/Screenshot%202025-05-27%20015046.png" width="600"> <br>
+  <img src="https://github.com/gasingh/k-means/blob/main/Screenshot%202025-05-27%20015135.png" width="600">
+  
 
 - **Color Tools for Rhino3D** <br>
   (Python, 2023) 
