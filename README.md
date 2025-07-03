@@ -98,6 +98,15 @@ more stuff to come!
   <img src="https://github.com/gasingh/k-means/blob/main/ViewCapture20250527_003353_.jpg" width="300"> <br>
   
 
+- <a href=https://github.com/gasingh/CA_2d>**Cellular Automata for Rhino3D** </a> <br>
+(Python, 2025)<br>
+
+  This is an elementary cellular automata generator inside Rhino/Grasshopper using Python. I explore a few interesting CA rules: 110, 30, etc!
+
+  <img src="https://raw.githubusercontent.com/gasingh/CA_2d/main/ViewCapture20250703_034409_rule110_res50_grid.jpg" width="600"> <br>
+  <img src="https://raw.githubusercontent.com/gasingh/CA_2d/main/ViewCapture20250703_032400_rule30_res50.jpg" width="300"> <br>
+  
+
 - **Color Tools for Rhino3D** <br>
   (Python, 2023) 
 
